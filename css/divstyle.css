@@ -1,0 +1,22 @@
+.container {
+  background-color: #E5F6FF;
+}
+.h5 {
+color: black;
+}
+.sub-text {
+  color: grey;
+}
+.bookContent {
+  background-color: #CBEAFA;
+}
+.card-body {
+  background-color: #CBEAFA;
+}
+.accordionContent {
+  background-color: #E5F6FF;
+}
+footer {
+  margin: auto;
+  text-align: center;
+}
